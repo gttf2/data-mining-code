@@ -1,1 +1,2 @@
 其中使用的dev.vsc为Amazon上数据集
+test.py为实验node2vec时创建的
