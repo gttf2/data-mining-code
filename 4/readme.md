@@ -1,1 +1,1 @@
-在原有代码上修改了数据预处理代码，models为本地下载的千问与all-MiniLM-L6-v2
+在原有代码上修改了数据预处理代码，models为本地下载的千问与all-MiniLM-L6-v2,也修改了读取models相关代码
